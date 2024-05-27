@@ -8,8 +8,8 @@
     "start": "webpack serve --open"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "fralorange",
+  "license": "MIT",
   "dependencies": {
     "three": "^0.164.1"
   },
