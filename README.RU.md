@@ -7,7 +7,7 @@
 Чтобы установить и запустить проект, вам потребуется Node.js и npm. Сначала склонируйте этот репозиторий на свой локальный компьютер:
 
 ```
-git clone https://github.com/your-username/web3d_puzzle_minigame.git
+git clone https://github.com/fralorange/web3d_puzzle_minigame.git
 ```
 
 Затем перейдите в каталог проекта:
