@@ -7,7 +7,7 @@ This Universiy Project is a 3D puzzle minigame based on WebGL (THREE.js).
 To install and run the project, you need to have Node.js and npm installed. First, clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/web3d_puzzle_minigame.git
+git clone https://github.com/fralorange/web3d_puzzle_minigame.git
 ```
 
 Then, navigate to the project directory:
